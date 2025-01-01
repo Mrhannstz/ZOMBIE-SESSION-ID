@@ -63,7 +63,7 @@ router.get('/', async (req, res) => {
 
 *𝚭𝚯𝚳𝚩𝚰𝚵-𝚳𝐃 SESSION CONNECTED*
 
-*MADE BY TIMNASA TECH*
+*MADE BY 𝚭𝚯𝚳𝚩𝚰𝚵*
 
 *WACHANNEL*
 https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
